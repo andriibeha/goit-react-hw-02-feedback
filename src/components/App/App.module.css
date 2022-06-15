@@ -1,0 +1,29 @@
+body { 
+    padding: 25px;
+}
+
+.list { 
+    list-style: none;
+}
+
+.buttonList { 
+    list-style: none;
+    display: flex;
+}
+
+.item { 
+    font-size: 20px;
+    margin: 5px;
+}
+
+.button { 
+    padding: 5px;
+}
+
+.button:hover  {
+    background-color: tomato;
+}
+
+.notification { 
+    font-size: 20px;
+}
