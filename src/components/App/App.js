@@ -14,7 +14,6 @@ class App extends Component {
     }
 
     clickGood = () => {
-        console.log(this.countTotalFeedback())
         this.setState((prevState) => {
             return {
                 good: prevState.good + 1
