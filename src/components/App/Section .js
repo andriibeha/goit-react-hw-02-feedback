@@ -1,4 +1,3 @@
-import s from "./App.module.css";
 
 const Section = ({title, children}) => {
     return <section>
